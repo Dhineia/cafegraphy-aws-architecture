@@ -120,4 +120,5 @@ This project demonstrates my ability to build secure, automated, and scalable cl
 
 --- 
 ## Website Application
+<img width="1887" height="876" alt="image" src="https://github.com/user-attachments/assets/3bcfb1ff-367e-4a81-82d1-941a3058acff" />
 
